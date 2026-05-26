@@ -69,9 +69,9 @@
 > 有些项目仍在悄悄生长。  
 > 像深夜里的代码，不喧哗，但始终鲜活。
 
-| 项目 | 描述 |
-| ---- | ---- |
-| **Elysium** | 一个面向 PT 聚合、自动任务、文案管理、通知推送与自托管服务的个人自动化平台 |
+| Project | Description |
+| ------- | ----------- |
+| <a href="https://github.com/hanxlabs/elysium"><strong>Elysium</strong></a> | 一个面向 PT 聚合、自动任务、文案管理、通知推送与自托管服务的个人自动化平台 |
 
 <br/>
 
